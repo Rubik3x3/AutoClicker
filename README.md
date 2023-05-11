@@ -1,2 +1,2 @@
 # AutoClicker
-AutoClicker with Python and Pyautogui.
+Auto Clicker with Python and Pyautogui.
